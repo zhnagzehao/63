@@ -5,4 +5,4 @@
 	<title>miniDog</title>
 </head>
 <body>
-<img src="QQ.jpg">
+<img src="qq.jpg">
